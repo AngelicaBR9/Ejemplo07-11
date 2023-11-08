@@ -6,4 +6,4 @@ invertir_digitos_aux(Numero, Acumulador, Invertido) :-
     NuevoNumero is Numero // 10, 
     NuevoAcumulador is Acumulador * 10 + Digito, 
     invertir_digitos_aux(NuevoNumero, NuevoAcumulador, Invertido).
-PRUEBA 2
+PRUEBA 3
