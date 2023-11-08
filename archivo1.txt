@@ -1,1 +1,1 @@
-Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. PRUEBA 2
+Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. PRIMERA EDICION - COMENTARIO 2
